@@ -42,7 +42,7 @@ jobs:
             git config --local user.name "GitHub Action"
             touch .nojekyll
             git add .
-            git commit -m "Update documentation" -a https://github.com/yguel/informatique_industrielle || true
+            git commit -m "Update documentation" -a || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
