@@ -34,7 +34,7 @@ jobs:
             cd ../..
       - name: Create commit
         run: |
-            git clone https://aarthur371.github.io/info_indus_tutorial/ --branch gh-pages --single-branch gh-pages
+            git clone https://github.com/Aarthur371/info_indus_tutorial.git --branch gh-pages --single-branch gh-pages
             mkdir -p gh-pages/docs/
             cp -r ./doc/sphinx/build/html/* gh-pages/
             cd gh-pages
