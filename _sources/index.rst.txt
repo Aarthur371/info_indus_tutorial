@@ -11,7 +11,7 @@ Add your content using ``reStructuredText`` syntax. See the
 documentation for details.
 
 **COUCOU**
-
+.. image:: home/insa/ros2_ws/info_indus_VGVA/info_indus_tutorial/bonnet.jpeg 
 
 .. toctree::
    :maxdepth: 2
