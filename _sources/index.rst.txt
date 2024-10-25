@@ -11,7 +11,7 @@ Add your content using ``reStructuredText`` syntax. See the
 documentation for details.
 hello
 **COUCOU**
-.. image:: ressources/img/bonnet.jpeg 
+.. figure:: ressources/img/bonnet.jpeg 
 
 .. toctree::
    :maxdepth: 2
