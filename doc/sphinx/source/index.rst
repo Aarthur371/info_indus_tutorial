@@ -11,6 +11,7 @@ Add your content using ``reStructuredText`` syntax. See the
 documentation for details.
 hello
 **COUCOU**
+
 .. image:: ressources/img/bonnet.jpeg 
    :width: 50%
    :align: center
