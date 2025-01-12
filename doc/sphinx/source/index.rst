@@ -17,6 +17,7 @@ Documentation Varlet Tassart
    intro
    rasberry
    maquette
+
 .. toctree::
    :maxdepth: 3
    :caption: Installations:
@@ -24,6 +25,7 @@ Documentation Varlet Tassart
    Ubuntu
    ros2
    VSCode
+
 .. toctree::
    :maxdepth: 3
    :caption: Pilotage des moteurs:
