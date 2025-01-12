@@ -11,7 +11,7 @@ Add your content using ``reStructuredText`` syntax. See the
 documentation for details.
 
 .. image:: ressources/img/bonnet.jpeg 
-   :width: 200%
+   :width: 100%
    :align: center
 
 .. toctree::
