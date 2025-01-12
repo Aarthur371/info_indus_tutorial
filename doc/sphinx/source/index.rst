@@ -15,9 +15,8 @@ documentation for details.
    :align: center
 
 .. toctree::
-   :maxdepth: 4
-   :caption: Tutoriel
-   introduction_index
-   installation_index
-   pilotage_index
+   :maxdepth: 2
+   :caption: Table des matieres:
+   
+   intro
 
