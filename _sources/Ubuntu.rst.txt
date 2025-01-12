@@ -1,6 +1,6 @@
 *********
 Ubuntu
-********
+*********
 
 Linux Ubuntu est un système d’exploitation libre, gratuit, et simple d’utilisation.
 Il est possible d'installer Ubuntu sur une Rasberry Pi à l'aide de l'outil Pi Imager téléchargeable à l'adresse suivante : https://www.raspberrypi.com/software/.
