@@ -15,8 +15,22 @@ documentation for details.
    :align: center
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Table des matieres:
-   
+   :maxdepth: 3
+   :caption: Materiel utilise:
    intro
+   rasberry
+   maquette
+.. toctree::
+   :maxdepth: 3
+   :caption: Installations:
+   Ubuntu
+   ros2
+   VSCode
+.. toctree::
+   :maxdepth: 3
+   :caption: Pilotage des moteurs:
+   Pilotage
+   
+
+
 

@@ -2,4 +2,4 @@
 Introduction
 *********
 
-Cette page de documentation a été rédigée dans le cadre de notre projet d'informatique industrielle à **l'INSA Strasbourg**.
+Cette page de documentation a ï¿½tï¿½ rï¿½digï¿½e dans le cadre de notre projet d'informatique industrielle ï¿½ **l'INSA Strasbourg**.
