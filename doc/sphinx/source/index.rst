@@ -16,9 +16,9 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 3
-   :caption: Matériel utilisé:
+   :caption: Materiel utilise:
    intro
-   Rasberry
+   rasberry
    maquette
 .. toctree::
    :maxdepth: 3
@@ -29,6 +29,7 @@ documentation for details.
 .. toctree::
    :maxdepth: 3
    :caption: Pilotage des moteurs:
+   Pilotage
    
 
 
