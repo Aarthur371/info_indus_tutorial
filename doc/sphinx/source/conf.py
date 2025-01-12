@@ -6,10 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'VaGv_info_indus_tutorial'
-copyright = '2024, aRTHUR vARLET, vALENTIN GIRARDET'
-author = 'aRTHUR vARLET, vALENTIN GIRARDET'
+project = 'VaTc_info_indus_tutorial'
+copyright = '2024, Arthur VARLET, Clement TASSART'
+author = 'Arthur VARLET, Clement TASSART'
 release = '1.0'
+source_encoding = 'utf-8'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
