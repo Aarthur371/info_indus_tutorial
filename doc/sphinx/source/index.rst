@@ -11,7 +11,7 @@ Add your content using ``reStructuredText`` syntax. See the
 documentation for details.
 
 .. image:: ressources/img/insa.jpg
-   :width: 25%
+   :width: 50%
    :align: center
 
 .. toctree::
