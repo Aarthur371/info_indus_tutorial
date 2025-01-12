@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\doc",
+    "\\doc\\sphinx",
+    "\\doc\\sphinx\\source"
   ],
-  "SelectedNode": "\\C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation",
   "PreviewInSolutionExplorer": false
 }
