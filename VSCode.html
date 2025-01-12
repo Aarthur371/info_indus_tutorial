@@ -59,6 +59,9 @@
 <li class="toctree-l1"><a class="reference internal" href="ros2.html">Ros2</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">VSCode</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#preparer-le-rasberry-pi">Preparer le Rasberry Pi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#telecharger-et-installer-vscode">Telecharger et Installer VSCode</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#lancer-et-configurer-vscode">Lancer et Configurer VSCode</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#mettre-a-jour-vscode">Mettre à jour VSCode</a></li>
 </ul>
 </li>
 </ul>
@@ -99,6 +102,48 @@
 <p>Avant d’installer Vscode, il est necessaire de mettre a jour la Rasberry Pi.</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt-get<span class="w"> </span>update
 sudo<span class="w"> </span>apt-get<span class="w"> </span>upgrade
+</pre></div>
+</div>
+<p>Installer les dependances necessaires pour VSCode:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>-y<span class="w"> </span>libx11-dev<span class="w"> </span>libxkbfile-dev<span class="w"> </span>libsecret-1-dev
+</pre></div>
+</div>
+</section>
+<section id="telecharger-et-installer-vscode">
+<h2>Telecharger et Installer VSCode<a class="headerlink" href="#telecharger-et-installer-vscode" title="Link to this heading"></a></h2>
+<p>Telecharger le paquet .deb pour ARM depuis le site officiel de VSCode:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>wget<span class="w"> </span>https://code.visualstudio.com/sha/download?build<span class="o">=</span>stable<span class="p">&amp;</span><span class="nv">os</span><span class="o">=</span>linux-deb-arm
+</pre></div>
+</div>
+<p>Renommer le fichier telecharge:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>mv<span class="w"> </span>download?build<span class="o">=</span>stable<span class="p">&amp;</span><span class="nv">os</span><span class="o">=</span>linux-deb-arm<span class="w"> </span>vscode-arm.deb
+</pre></div>
+</div>
+<p>Installer le paquet .deb:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>sudo<span class="w"> </span>dpkg<span class="w"> </span>-i<span class="w"> </span>vscode-arm.deb
+</pre></div>
+</div>
+<p>Corriger les eventuelles erreurs de dependances:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>--fix-broken<span class="w"> </span>install
+</pre></div>
+</div>
+</section>
+<section id="lancer-et-configurer-vscode">
+<h2>Lancer et Configurer VSCode<a class="headerlink" href="#lancer-et-configurer-vscode" title="Link to this heading"></a></h2>
+<p>Lancer VSCode:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>code
+</pre></div>
+</div>
+<p>Configurer l’editeur selon vos preferences, en installant des extensions utiles. Par exemple, pour le developpement Python, vous pouvez installer l’extension Python pour VSCode:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>code<span class="w"> </span>--install-extension<span class="w"> </span>ms-python.python
+</pre></div>
+</div>
+</section>
+<section id="mettre-a-jour-vscode">
+<h2>Mettre à jour VSCode<a class="headerlink" href="#mettre-a-jour-vscode" title="Link to this heading"></a></h2>
+<p>Vérifier la présence de mises à jour disponibles pour VSCode:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>update
+sudo<span class="w"> </span>apt<span class="w"> </span>upgrade<span class="w"> </span>code
 </pre></div>
 </div>
 </section>
