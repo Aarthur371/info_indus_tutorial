@@ -1,5 +1,6 @@
 **********
 Maquette
 **********
-.. figure:: resources/img/photo_maquette.png
+.. figure:: ressources/img/photo_maquette.png
+   :width: 100%
    :align: center
