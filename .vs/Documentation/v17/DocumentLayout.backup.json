@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\introduction_index.rst||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\introduction_index.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\index.rst||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\index.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\introduction_index.rst||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\introduction_index.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "introduction_index.rst",
               "DocumentMoniker": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\introduction_index.rst",
               "RelativeDocumentMoniker": "doc\\sphinx\\source\\introduction_index.rst",
@@ -46,18 +46,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.rst",
               "DocumentMoniker": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\index.rst",
               "RelativeDocumentMoniker": "doc\\sphinx\\source\\index.rst",
               "ToolTip": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\index.rst",
               "RelativeToolTip": "doc\\sphinx\\source\\index.rst",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-12T16:46:47.177Z",
               "EditorCaption": ""
