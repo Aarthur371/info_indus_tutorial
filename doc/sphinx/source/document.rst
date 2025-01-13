@@ -21,5 +21,7 @@ Structure d'une documentation
 Branche Rowling, GHpages
 
 =====================
-Déposer sa documentation sur Github
+Créer une documentation
 =====================
+
+`Informatique industrielle avec ROS2 - C01: Créer et publier de la documentation <https://yguel.github.io/informatique_industrielle_avec_ROS2/c01_create_and_publish_doc/p01s04_create_doc.html>`_

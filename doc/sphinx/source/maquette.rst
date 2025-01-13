@@ -11,7 +11,7 @@ La maquette utilisée lors de ce projet est réprésentée sur la figure ci-dess
 On peut retrouver le schéma cinématique correspondant : 
 
 .. figure:: ressources/img/schema_pento.png
-   :width: 100%
+   :width: 70%
    :align: center
 
 
@@ -32,6 +32,7 @@ Paramètres du système
 .. raw:: html
 
    </div>
+
 
 .. note::
    Attention au décalage du support du stylo à prendre en compte.
