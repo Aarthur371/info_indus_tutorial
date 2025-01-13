@@ -3,7 +3,7 @@ Rasberry
 *********
 
 .. figure:: ressources/img/rasb.png
-   :width: 100%
+   :width: 10%
    :align: center
 
 
