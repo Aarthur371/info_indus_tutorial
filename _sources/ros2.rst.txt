@@ -6,5 +6,6 @@ Installation de ROS2 Jazzy à partir de la documentation Ros : `Installation sur
 
 .. note::
    Si il y a une erreur lors de la commande de l'installation de ROS Jazzy, éxecuter la commande suivante : 
-   .. code-block:: bash
-      sudo apt update && sudo apt install curl -y
+
+.. code-block:: bash
+   sudo apt update && sudo apt install curl -y

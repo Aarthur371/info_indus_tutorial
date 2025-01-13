@@ -21,6 +21,7 @@
       <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
       <script src="_static/clipboard.min.js?v=a7894cd8"></script>
       <script src="_static/copybutton.js?v=30646c52"></script>
+      <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -51,7 +52,10 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="intro.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="rasberry.html">Rasberry</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Maquette</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Maquette</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#parametres-du-systeme">Paramètres du système</a></li>
+</ul>
+</li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Installations:</span></p>
 <ul>
@@ -94,10 +98,44 @@
              
   <section id="maquette">
 <h1>Maquette<a class="headerlink" href="#maquette" title="Link to this heading"></a></h1>
-<figure class="align-center">
-<a class="reference internal image-reference" href="_images/photo_maquette.png"><img alt="_images/photo_maquette.png" src="_images/photo_maquette.png" style="width: 100%;" />
-</a>
-</figure>
+<p>La maquette utilisée lors de ce projet est réprésentée sur la figure ci-dessous.
+.. figure:: ressources/img/photo_maquette.png</p>
+<blockquote>
+<div><dl class="field-list simple">
+<dt class="field-odd">width<span class="colon">:</span></dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+<dt class="field-even">align<span class="colon">:</span></dt>
+<dd class="field-even"><p>center</p>
+</dd>
+</dl>
+</div></blockquote>
+<p>On peut retrouver le schéma cinématique correspondant :
+.. figure:: ressources/img/schema_pento.png</p>
+<blockquote>
+<div><dl class="field-list simple">
+<dt class="field-odd">width<span class="colon">:</span></dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+<dt class="field-even">align<span class="colon">:</span></dt>
+<dd class="field-even"><p>center</p>
+</dd>
+</dl>
+</div></blockquote>
+<section id="parametres-du-systeme">
+<h2>Paramètres du système<a class="headerlink" href="#parametres-du-systeme" title="Link to this heading"></a></h2>
+<div class="math notranslate nohighlight">
+\[L_0 = \overline{A_1A_5} = 137.98 \, \text{mm}
+L_1 = \overline{A_1A_2} = 80 \, \text{mm}
+L_2 = \overline{A_2A_3} = 146.3 \, \text{mm}
+L_3 = \overline{A_3A_4} = 146.3 \, \text{mm}
+L_4 = \overline{A_4A_5} = 80 \, \text{mm}\]</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Attention au décalage du support du stylo à prendre en compte.</p>
+<p>Seules les articulations A_1 et A_5 sont motorisées</p>
+</div>
+</section>
 </section>
 
 
