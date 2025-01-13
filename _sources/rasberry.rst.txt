@@ -1,6 +1,12 @@
 *********
 Rasberry
 *********
+
+.. figure:: ressources/img/rasb.png
+   :width: 100%
+   :align: center
+
+
 Présentation du Raspberry Pi
 ============================
 

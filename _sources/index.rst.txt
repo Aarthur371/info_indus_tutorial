@@ -7,7 +7,7 @@ Documentation Varlet Tassart
 ======================================
 
 .. image:: ressources/img/insa.jpg
-   :width: 50%
+   :width: 70%
    :align: center
 
 .. toctree::
