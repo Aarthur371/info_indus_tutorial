@@ -6,7 +6,7 @@ Documentation
 A quoi sert une documentation
 =====================
 
-Une bonne documentation permet de pouvoir transmettre un projet à d'autres personnes afin que celles-ci puissent continuer à travailler sur ce projet. La documentation doit permettre de comprendre et de réaliser toutes les étapes de pour réaliser un projet.
+La documentation est essentielle car elle permet de transmettre un projet à d'autres personnes afin que celles-ci puissent continuer à travailler sur ce projet. La documentation doit permettre de comprendre et de réaliser toutes les étapes d'un projet.
 
 =====================
 Comment bien rédiger sa documentation
