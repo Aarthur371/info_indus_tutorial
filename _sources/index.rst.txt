@@ -32,6 +32,8 @@ Documentation Varlet Tassart
    
    Pilotage
    
+.. toctree::
+   :maxdepth: 3
+   :caption: Documentation
 
-
-
+   document
