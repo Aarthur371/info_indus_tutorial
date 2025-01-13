@@ -94,6 +94,22 @@
              
   <section id="pilotage-des-moteurs">
 <h1>Pilotage des moteurs<a class="headerlink" href="#pilotage-des-moteurs" title="Link to this heading"></a></h1>
+<p>Afin de piloter les moteurs dynamixels, il est recommandé de suivre cette vidéo :</p>
+<p><a class="reference external" href="https://www.youtube.com/watch?time_continue=2&amp;v=-MafNIZUCHA&amp;embeds_referring_euri=https%3A%2F%2Femanual.robotis.com%2F&amp;source_ve_path=Mjg2NjY">Quick start guide for Rasberry Pi</a></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Attention : opération de clonage à faire avec ROS_DISTRO = humble</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Argument –depth 1 : permet de prendre que la dernière version pour gagner de la place (évite aussi les erreurs)</p>
+</div>
+<p>Ajouter les addon du tuto yguel au bashrc pour debugger plus facilement !
+Puis reprendre tuto video (ajout utilisateur à ,un groupe avec usermod, etc)</p>
+<p>Read write node error : ouvirir le fichier correspondant
+Chercher control table dans la doc dxl/ax sur emanual robotis
+Régler paramètres torque enable, baud rate, version protocol 1.0
+Recompiler : ros2_build</p>
 </section>
 
 
