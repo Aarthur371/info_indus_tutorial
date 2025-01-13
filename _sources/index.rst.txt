@@ -12,7 +12,7 @@ Documentation Varlet Tassart
 
 .. toctree::
    :maxdepth: 3
-   :caption: Materiel utilise:
+   :caption: Materiel:
 
    intro
    rasberry
