@@ -11,7 +11,7 @@ Documentation Varlet Tassart
    :align: center
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Materiel:
 
    intro
@@ -19,7 +19,7 @@ Documentation Varlet Tassart
    maquette
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Installations:
 
    Ubuntu
@@ -27,13 +27,13 @@ Documentation Varlet Tassart
    VSCode
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Pilotage des moteurs:
    
    Pilotage
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Documentation
 
    document
