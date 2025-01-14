@@ -1,5 +1,5 @@
 *********
-Rasberry
+Raspberry
 *********
 
 .. figure:: ressources/img/rasb.png
