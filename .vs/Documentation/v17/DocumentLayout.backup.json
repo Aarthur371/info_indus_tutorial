@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\rasberry.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\index.rst||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\index.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\conf.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\conf.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\VSCode.rst||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\VSCode.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\intro.rst||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\intro.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\index.rst||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doc\\sphinx\\source\\index.rst||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VSCode.rst",
+              "DocumentMoniker": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\VSCode.rst",
+              "RelativeDocumentMoniker": "doc\\sphinx\\source\\VSCode.rst",
+              "ToolTip": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\VSCode.rst",
+              "RelativeToolTip": "doc\\sphinx\\source\\VSCode.rst",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T20:37:22.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ros2.rst",
               "DocumentMoniker": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\ros2.rst",
               "RelativeDocumentMoniker": "doc\\sphinx\\source\\ros2.rst",
               "ToolTip": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\ros2.rst",
               "RelativeToolTip": "doc\\sphinx\\source\\ros2.rst",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-12T19:25:50.506Z",
               "EditorCaption": ""
@@ -69,7 +82,7 @@
               "RelativeDocumentMoniker": "doc\\sphinx\\source\\rasberry.rst",
               "ToolTip": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\rasberry.rst",
               "RelativeToolTip": "doc\\sphinx\\source\\rasberry.rst",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-12T19:19:40.309Z",
               "EditorCaption": ""
@@ -90,38 +103,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "conf.py",
-              "DocumentMoniker": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\conf.py",
-              "RelativeDocumentMoniker": "doc\\sphinx\\source\\conf.py",
-              "ToolTip": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\conf.py",
-              "RelativeToolTip": "doc\\sphinx\\source\\conf.py",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-01-12T18:11:12.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "intro.rst",
               "DocumentMoniker": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\intro.rst",
               "RelativeDocumentMoniker": "doc\\sphinx\\source\\intro.rst",
               "ToolTip": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\intro.rst",
               "RelativeToolTip": "doc\\sphinx\\source\\intro.rst",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-12T17:57:05.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "index.rst",
               "DocumentMoniker": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\index.rst",
               "RelativeDocumentMoniker": "doc\\sphinx\\source\\index.rst",
               "ToolTip": "C:\\Users\\arvar\\Documents\\Arthur\\Cours\\MIQ5\\Informatique Industrielle\\Documentation\\doc\\sphinx\\source\\index.rst",
               "RelativeToolTip": "doc\\sphinx\\source\\index.rst",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-12T16:46:47.177Z",
               "EditorCaption": ""

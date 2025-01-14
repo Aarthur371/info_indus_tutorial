@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\.github\\workflows",
     "\\doc",
     "\\doc\\sphinx",
-    "\\doc\\sphinx\\source"
+    "\\doc\\sphinx\\source",
+    "\\doc\\sphinx\\source\\ressources",
+    "\\doc\\sphinx\\source\\ressources\\img"
   ],
+  "SelectedNode": "\\doc\\sphinx\\source\\ros2.rst",
   "PreviewInSolutionExplorer": false
 }
