@@ -12,7 +12,9 @@ Présentation du Raspberry Pi
 
 Le **Raspberry Pi** est un ordinateur monocarte compact, abordable et polyvalent. Conçu initialement pour l'éducation, il est devenu un outil de prédilection pour les amateurs de technologies, les enseignants et les professionnels. Voici une présentation de ses principales caractéristiques et applications.
 
----
+.. raw:: html
+
+   <hr>
 
 1. Qu'est-ce qu'un Raspberry Pi ?
 ---------------------------------
