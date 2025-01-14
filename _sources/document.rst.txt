@@ -18,9 +18,6 @@ Une bonne documentation doit permettre à une personne extérieure au projet de 
 Structure d'une documentation
 =====================
 
-Branches GitHub pour la Documentation
-=====================================
-
 Les branches **rolling** et **gh-pages** dans une documentation hébergée par GitHub ont des objectifs différents.
 
 1. **Branch rolling** :
