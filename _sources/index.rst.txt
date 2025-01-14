@@ -15,7 +15,7 @@ Documentation Varlet Tassart
    :caption: Materiel:
 
    intro
-   rasberry
+   raspberry
    maquette
 
 .. toctree::
