@@ -16,7 +16,7 @@ Prérequis
 * Un PC Windows.
 * Une connexion Internet active.
 * Un compte Microsoft pour l'installation de Visual Studio.
-* Un d�p�t Git � cloner (avec l'URL du d�p�t).
+* Un dépôt Git à cloner (avec l'URL du dépôt).
 >>>>>>> 5f3ac4a06bb4552341999b00518f2ae20812a29e
 
 =====================
@@ -29,10 +29,10 @@ Installation de Visual Studio
    - Cliquez sur le bouton à Télécharger Visual Studio �.
    - Sélectionnez la version souhaitée : Community (version gratuite pour les particuliers).
 =======
-1. **T�l�charger Visual Studio 2022** :
-   * Acc�dez au site officiel de Visual Studio : https://visualstudio.microsoft.com/fr/.
-   * Cliquez sur le bouton � T�l�charger Visual Studio �.
-   * S�lectionnez la version souhait�e : Community (version gratuite pour les particuliers).
+1. **Télécharger Visual Studio 2022** :
+   * Accédez au site officiel de Visual Studio : https://visualstudio.microsoft.com/fr/.
+   * Cliquez sur le bouton "Télécharger Visual Studio".
+   * Sélectionnez la version souhaitée : Community (version gratuite pour les particuliers).
 >>>>>>> 5f3ac4a06bb4552341999b00518f2ae20812a29e
 
 2. **Lancer l'installation** :
@@ -40,16 +40,16 @@ Installation de Visual Studio
    - Exécutez le fichier téléchargé (`VisualStudioSetup.exe`).
    - Choisissez les outils de développement adaptés à votre projet. Par exemple : 
      - Python.
-     - � Développement avec .NET �.
-     - � Développement multiplateforme avec C++ �.
-   - Cliquez sur � Installer � pour lancer le processus.
+     - "Développement avec .NET".
+     - "Développement multiplateforme avec C++".
+   - Cliquez sur "Installer" pour lancer le processus.
 =======
-   * Ex�cutez le fichier t�l�charg� (`VisualStudioSetup.exe`).
-   * Choisissez les outils de d�veloppement adapt�s � votre projet. Par exemple : 
+   * Exécutez le fichier téléchargé (`VisualStudioSetup.exe`).
+   * Choisissez les outils de développement adaptés à votre projet. Par exemple : 
      * Python.
-     * � D�veloppement avec .NET �.
-     * � D�veloppement multiplateforme avec C++ �.
-   * Cliquez sur � Installer � pour lancer le processus.
+     * "Développement avec .NET".
+     * "Développement multiplateforme avec C++".
+   * Cliquez sur "Installer" pour lancer le processus.
 >>>>>>> 5f3ac4a06bb4552341999b00518f2ae20812a29e
 
 .. warning::
@@ -60,8 +60,8 @@ Installation de Visual Studio
    - Une fois l'installation terminée, ouvrez Visual Studio.
    - Connectez-vous avec votre compte Microsoft si demandé.
 =======
-   * Une fois l'installation termin�e, ouvrez Visual Studio.
-   * Connectez-vous avec votre compte Microsoft si demand�.
+   * Une fois l'installation terminée, ouvrez Visual Studio.
+   * Connectez-vous avec votre compte Microsoft si demandé.
 >>>>>>> 5f3ac4a06bb4552341999b00518f2ae20812a29e
 
 =====================

@@ -23,7 +23,10 @@ Le Raspberry Pi est une série de petits ordinateurs développés par la **Raspb
 
 Pour en savoir plus sur la Raspberry Pi Foundation, consultez leur site officiel : `raspberrypi.org <https://www.raspberrypi.org>`_.
 
----
+.. raw:: html
+
+   <hr>
+
 
 2. Les principaux modèles de Raspberry Pi
 ------------------------------------------
@@ -36,7 +39,10 @@ Les modèles les plus populaires incluent :
 
 Pour une comparaison complète des modèles disponibles, vous pouvez visiter : `Comparatif des modèles Raspberry Pi <https://www.raspberrypi.org/documentation/computers/>`_.
 
----
+.. raw:: html
+
+   <hr>
+
 
 3. Applications courantes
 --------------------------
@@ -64,7 +70,10 @@ Des robots aux stations météo, en passant par l'impression 3D, le Raspberry Pi
 
 Pour explorer des tutoriels inspirants, rendez-vous sur : `Projets Raspberry Pi <https://projects.raspberrypi.org>`_.
 
----
+.. raw:: html
+
+   <hr>
+
 
 4. Pourquoi utiliser un Raspberry Pi avec VSCode ?
 ---------------------------------------------------
@@ -77,6 +86,9 @@ VSCode est un outil puissant pour :
 
 Pour une configuration rapide de VSCode avec un Raspberry Pi, consultez ce guide officiel : `Documentation VSCode Remote <https://code.visualstudio.com/docs/remote/remote-overview>`_.
 
----
+.. raw:: html
+
+   <hr>
+
 
 En conclusion, le Raspberry Pi est un outil incontournable pour tout passionné de technologies. Intégré à votre flux de travail avec VSCode, il offre une expérience de développement fluide et à faible coût.
