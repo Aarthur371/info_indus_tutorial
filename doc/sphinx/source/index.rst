@@ -37,3 +37,4 @@ Documentation Varlet Tassart
    :caption: Documentation
 
    document
+   visualstudio
