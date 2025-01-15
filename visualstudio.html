@@ -105,49 +105,23 @@
 <p>Ce tutoriel vous guide à travers l’installation de Visual Studio 2022 sur un PC Windows et la configuration de Git dans Visual Studio pour cloner un dépôt.</p>
 <section id="prerequis">
 <h2>Prérequis<a class="headerlink" href="#prerequis" title="Link to this heading"></a></h2>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-- Un PC Windows.
-- Une connexion Internet active.
-- Un compte Microsoft pour l’installation de Visual Studio.
-- Un dépôt Git à cloner (avec l’URL du dépôt).
-=======
-* Un PC Windows.
-* Une connexion Internet active.
-* Un compte Microsoft pour l’installation de Visual Studio.
-* Un dépôt Git à cloner (avec l’URL du dépôt).
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
+<ul class="simple">
+<li><p>Un PC Windows.</p></li>
+<li><p>Une connexion Internet active.</p></li>
+<li><p>Un compte Microsoft pour l’installation de Visual Studio.</p></li>
+<li><p>Un dépôt Git à cloner (avec l’URL du dépôt).</p></li>
+</ul>
 <section id="installation-de-visual-studio">
 <h3>Installation de Visual Studio<a class="headerlink" href="#installation-de-visual-studio" title="Link to this heading"></a></h3>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-1. <strong>Télécharger Visual Studio 2022</strong> :</p>
+<ol class="arabic">
+<li><p><strong>Télécharger Visual Studio 2022</strong> :
+- Accèdez au site officiel de Visual Studio : <a class="reference external" href="https://visualstudio.microsoft.com/fr/">https://visualstudio.microsoft.com/fr/</a>.
+- Cliquez sur le bouton à Télécharger Visual Studio �.
+- Sélectionnez la version souhaitée : Community (version gratuite pour les particuliers).</p></li>
+<li><p><strong>Lancer l’installation</strong> :
+- Exécutez le fichier téléchargé (<cite>VisualStudioSetup.exe</cite>).
+- Choisissez les outils de développement adaptés à votre projet. Par exemple :</p>
 <blockquote>
-<div><ul class="simple">
-<li><p>Accèdez au site officiel de Visual Studio : <a class="reference external" href="https://visualstudio.microsoft.com/fr/">https://visualstudio.microsoft.com/fr/</a>.</p></li>
-<li><p>Cliquez sur le bouton à Télécharger Visual Studio �.</p></li>
-<li><p>Sélectionnez la version souhaitée : Community (version gratuite pour les particuliers).</p></li>
-</ul>
-</div></blockquote>
-<blockquote>
-<div><ul class="simple">
-<li><p>Cliquez sur le bouton “Télécharger Visual Studio”.</p></li>
-<li><p>Sélectionnez la version souhaitée : Community (version gratuite pour les particuliers).</p></li>
-</ul>
-</div></blockquote>
-<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
-<p>2. <strong>Lancer l’installation</strong> :
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Exécutez le fichier téléchargé (<cite>VisualStudioSetup.exe</cite>).</p></li>
-<li><p>Choisissez les outils de développement adaptés à votre projet. Par exemple :
-- Python.
-- “Développement avec .NET”.
-- “Développement multiplateforme avec C++”.</p></li>
-<li><p>Cliquez sur “Installer” pour lancer le processus.</p></li>
-</ul>
-</div></blockquote>
-<blockquote>
-<div><blockquote>
 <div><ul class="simple">
 <li><p>Python.</p></li>
 <li><p>“Développement avec .NET”.</p></li>
@@ -157,101 +131,54 @@
 <ul class="simple">
 <li><p>Cliquez sur “Installer” pour lancer le processus.</p></li>
 </ul>
-</div></blockquote>
-<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
+</li>
+</ol>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>Visual Studio est un logiciel assez volumineux, veillez à ne cocher que les environnements de développement donc vous avez besoin pour éviter de prendre trop de volume sur votre ordinateur.</p>
 </div>
-<p>3. <strong>Configuration initiale</strong> :
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Une fois l’installation terminée, ouvrez Visual Studio.</p></li>
-<li><p>Connectez-vous avec votre compte Microsoft si demandé.</p></li>
-</ul>
-</div></blockquote>
-<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
+<ol class="arabic simple" start="3">
+<li><p><strong>Configuration initiale</strong> :
+- Une fois l’installation terminée, ouvrez Visual Studio.
+- Connectez-vous avec votre compte Microsoft si demandé.</p></li>
+</ol>
 </section>
 <section id="git-dans-visual-studio">
 <h3>Git dans Visual Studio<a class="headerlink" href="#git-dans-visual-studio" title="Link to this heading"></a></h3>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-1. <strong>Vérifier que Git est installé</strong> :</p>
+<ol class="arabic">
+<li><p><strong>Vérifier que Git est installé</strong> :
+- Visual Studio inclut un client Git intégré.</p></li>
+<li><p><strong>Configurer les paramètres Git</strong> :
+- Ouvrez Visual Studio.
+- Allez dans “Outils” &gt; “Options”.
+- Naviguez vers “Contrôle de source” &gt; “Paramètres globaux Git”.
+- Configurez les informations suivantes :</p>
 <blockquote>
 <div><ul class="simple">
-<li><p>Visual Studio inclut un client Git intégré.</p></li>
+<li><p><strong>Nom d’utilisateur</strong> : Votre nom pour les commits Git.</p></li>
+<li><p><strong>Adresse e-mail</strong> : L’adresse e-mail associée à votre compte Git.</p></li>
 </ul>
 </div></blockquote>
-<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-2. <strong>Configurer les paramètres Git</strong> :</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Ouvrez Visual Studio.</p></li>
-<li><p>Allez dans “Outils” &gt; “Options”.</p></li>
-<li><p>Naviguez vers “Contrôle de source” &gt; “Paramètres globaux Git”.</p></li>
-<li><p>Configurez les informations suivantes :
-- <strong>Nom d’utilisateur</strong> : Votre nom pour les commits Git.
-- <strong>Adresse e-mail</strong> : L’adresse e-mail associée à votre compte Git.</p></li>
-</ul>
-</div></blockquote>
-<blockquote>
-<div><ul class="simple">
-<li><p>Allez dans � Outils � &gt; � Options �.</p></li>
-<li><p>Naviguez vers � Contr�le de source � &gt; � Param�tres globaux Git �.</p></li>
-<li><p>Configurez les informations suivantes :
-* <strong>Nom d�utilisateur</strong> : Votre nom pour les commits Git.
-* <strong>Adresse e-mail</strong> : L�adresse e-mail associ�e � votre compte Git.</p></li>
-</ul>
-</div></blockquote>
-<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-3. <strong>Cloner un dépôt Git</strong> :</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Cliquez sur “Git” dans la barre d’outils principale de Visual Studio.</p></li>
-<li><p>Sélectionnez “Cloner un dépôt”.</p></li>
-<li><p>Collez l’URL du dépôt Git que vous souhaitez cloner.</p></li>
-<li><p>Sélectionnez le répertoire local où les fichiers seront enregistrés.</p></li>
-<li><p>Cliquez sur “Cloner”.</p></li>
-<li><p>Une fois le dépôt cloné, il sera visible dans l’explorateur de solutions de Visual Studio (onglet à droite)</p></li>
-</ul>
-</div></blockquote>
-<blockquote>
-<div><ul class="simple">
-<li><p>S�lectionnez � Cloner un d�p�t �.</p></li>
-<li><p>Collez l�URL du d�p�t Git que vous souhaitez cloner.</p></li>
-<li><p>S�lectionnez le r�pertoire local o� les fichiers seront enregistr�s.</p></li>
-<li><p>Cliquez sur � Cloner �.</p></li>
-<li><p>Une fois le d�p�t clon�, il sera visible dans l�explorateur de solutions de Visual Studio (onglet � droite)</p></li>
-</ul>
-</div></blockquote>
-<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
+</li>
+<li><p><strong>Cloner un dépôt Git</strong> :
+- Cliquez sur “Git” dans la barre d’outils principale de Visual Studio.
+- Sélectionnez “Cloner un dépôt”.
+- Collez l’URL du dépôt Git que vous souhaitez cloner.
+- Sélectionnez le répertoire local où les fichiers seront enregistrés.
+- Cliquez sur “Cloner”.
+- Une fois le dépôt cloné, il sera visible dans l’explorateur de solutions de Visual Studio (onglet à droite)</p></li>
+</ol>
 </section>
 <section id="modifications-du-code-heberge-sur-git">
 <h3>Modifications du code hébergé sur Git<a class="headerlink" href="#modifications-du-code-heberge-sur-git" title="Link to this heading"></a></h3>
-<p>1. <strong>Effectuer un commit local</strong> :
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Modifiez un fichier dans le projet cloné.</p></li>
-<li><p>Cliquez sur “Git” dans la barre d’outils principale de Visual Studio.</p></li>
-<li><p>Ajoutez un message de commit et cliquez sur “Commit”.</p></li>
-</ul>
-</div></blockquote>
-<blockquote>
-<div><ul class="simple">
-<li><p>Ajoutez un message de commit et cliquez sur � Commit �.</p></li>
-</ul>
-</div></blockquote>
-<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5f3ac4a06bb4552341999b00518f2ae20812a29e</p>
-<p>2. <strong>Pousser les changements</strong> :
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Cliquez sur “Pousser” pour envoyer les changements vers le dépôt distant.</p></li>
-</ul>
-</div></blockquote>
+<ol class="arabic simple">
+<li><p><strong>Effectuer un commit local</strong> :
+- Modifiez un fichier dans le projet cloné.
+- Cliquez sur “Git” dans la barre d’outils principale de Visual Studio.
+- Ajoutez un message de commit et cliquez sur “Commit”.</p></li>
+<li><p><strong>Pousser les changements</strong> :
+- Cliquez sur “Pousser” pour envoyer les changements vers le dépôt distant.</p></li>
+</ol>
 <figure class="align-center">
 <a class="reference internal image-reference" href="_images/tutoVSGit.png"><img alt="_images/tutoVSGit.png" src="_images/tutoVSGit.png" style="width: 100%;" />
 </a>
