@@ -70,3 +70,7 @@ Modifications du code hébergé sur Git
 
 2. **Pousser les changements** :
    - Cliquez sur « Pousser » pour envoyer les changements vers le dépôt distant.
+
+.. figure:: ressources/img/tutoVSGit.png
+   :width: 100%
+   :align: center
