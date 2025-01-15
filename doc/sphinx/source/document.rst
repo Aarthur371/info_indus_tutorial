@@ -1,5 +1,5 @@
 *************
-Documentation
+Pourquoi la documentation ?
 *************
 
 =====================
